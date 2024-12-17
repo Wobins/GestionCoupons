@@ -177,7 +177,7 @@ La classe Main contient le menu utilisateur qui permet de :
 
 ## Coupons Disponibles dans le Code
 
-Pour tester le projet, plusieurs coupons sont ajoutés directement dans le code. Ils sont stockés dans une liste dans la classe Main.
+Pour tester le projet, plusieurs coupons sont ajoutés directement dans le code. Ils sont stockés dans une liste dans la classe `DatabaseService`.
 
 Liste des Coupons :
 
